@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-f*_c=x@)0!776arc2n@+*=+ds@mr5ukr%5061)nbcjgd%k@1j4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['localhost', '.gitpod.io']
+ALLOWED_HOSTS = ['localhost', '.gitpod.io', 'django-test-render-scb4.onrender.com']
 
 
 # Application definition
